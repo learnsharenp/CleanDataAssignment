@@ -8,7 +8,7 @@ The zipped file of the raw data is as below
 The zipped file should be extracted as **"UCI HAR Dataset"** folder and should be on the same folder as of the script file **run_analysis.R**. The script expects **activity_labels.txt** and **features.txt** files and **test** and **train** folder under *"UCI HAR Dataset"* folder. The three files under each folder **test** and **train** is needed for the processing of the raw data.
 
 ## About Raw data
-The raw data is of fixed length having with of "16" character, so the file is imported as 16 character.
+The raw data is of fixed length having width of "16" character, so the file is imported as 16 character.
 
 ## Work flow of the script
 Following is the work flow of the script:
